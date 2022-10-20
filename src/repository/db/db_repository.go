@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/gocql/gocql"
-	"github.com/pamela-quiros/bookstore_oauth-api/src/client/cassandra"
+	"github.com/pamela-quiros/bookstore_oauth-api/src/clients/cassandra"
 	"github.com/pamela-quiros/bookstore_oauth-api/src/domain/access_token"
 	"github.com/pamela-quiros/bookstore_utils-go/rest_errors"
 )
